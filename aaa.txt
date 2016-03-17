@@ -1,1 +1,13 @@
-<html>
+###git使用教程
+
+git clone https://github.com/notleave/IFE.git  
+
+cd ./xxx
+
+修改
+
+git add *
+
+git commit -m "提交信息"
+
+git push origin master
